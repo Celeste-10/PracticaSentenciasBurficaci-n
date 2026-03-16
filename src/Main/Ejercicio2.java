@@ -43,7 +43,6 @@ public class Ejercicio2 {
 
             return true;
         }
-
         public static void main(String[] args) {
 
             Scanner scanner = new Scanner(System.in);
